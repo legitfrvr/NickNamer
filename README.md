@@ -1,4 +1,4 @@
-# Nick Finder
+# Nick Namer
 
 A simple, fast multithreaded OSINT username availability checker across 160+ platforms.
 
